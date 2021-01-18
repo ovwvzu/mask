@@ -6,7 +6,6 @@
 <td> <img src="https://ovwvzu.github.io/mask/1.png"> </td>
 <td> <img src="https://ovwvzu.github.io/mask/2.png"> </td>
 <td> <img src="https://ovwvzu.github.io/mask/3.png"> </td>
-<td> <img src="https://ovwvzu.github.io/mask/4.png"> </td>
 </tr>
 
 <tr>
